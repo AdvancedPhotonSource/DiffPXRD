@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "diffpxrd"
+dynamic = ["version"]
+description = "Differentiable constant-wavelength powder X-ray diffraction in PyTorch"
+readme = "README.md"
+license = {file = "LICENSE.txt"}
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=1.26,<2",
+    "torch>=2.5,<3",
+    "scipy>=1.11,<2",
+    "pymatgen>=2024.0",
+    "gemmi>=0.7,<0.8",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8,<9"]
+reproduce = ["pandas>=2.2,<4", "matplotlib>=3.9,<4"]
+
+[tool.setuptools]
+license-files = ["LICENSE.txt", "docs/licenses/gsas-ii.txt"]
+
+[tool.setuptools.dynamic]
+version = {attr = "diffpxrd.__version__"}
+
+[tool.setuptools.packages.find]
+include = ["diffpxrd", "diffpxrd.*"]
+
+[tool.setuptools.package-data]
+diffpxrd = ["spacegroup_lookup.json", "data/Xsect.dat"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--import-mode=importlib"

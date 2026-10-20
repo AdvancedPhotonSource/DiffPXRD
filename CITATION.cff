@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use diffPXRD, please cite the paper below."
+title: "diffPXRD"
+abstract: "Differentiable constant-wavelength powder X-ray diffraction in PyTorch, with batched fitting of individual patterns and diffraction series."
+type: software
+license: BSD-3-Clause
+repository-code: "https://github.com/AdvancedPhotonSource/DiffPXRD"
+authors:
+  - given-names: Xiangyu
+    family-names: Yin
+    affiliation: "Advanced Photon Source, Argonne National Laboratory"
+preferred-citation:
+  type: article
+  title: "Differentiable powder X-ray diffraction enables analysis of evolving structures"
+  authors:
+    - {given-names: Xiangyu, family-names: Yin}
+    - {given-names: Nina, family-names: Andrejevic}
+    - {given-names: Hemant, family-names: Sharma}
+    - {given-names: Ming, family-names: Du}
+    - {given-names: Aileen, family-names: Luo}
+    - {given-names: Michael, family-names: Prince}
+    - {given-names: Burak, family-names: Guzelturk}
+    - {given-names: Xiaoyi, family-names: Zhang}
+    - {given-names: Brian H., family-names: Toby}
+    - {given-names: Mathew J., family-names: Cherukara}

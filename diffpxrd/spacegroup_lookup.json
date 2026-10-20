@@ -1,0 +1,2302 @@
+[
+  {
+    "number": 1,
+    "xhm": "P 1",
+    "hm": "P 1",
+    "laue": "-1",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "triclinic",
+    "point_group_hm": "1"
+  },
+  {
+    "number": 2,
+    "xhm": "P -1",
+    "hm": "P -1",
+    "laue": "-1",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "triclinic",
+    "point_group_hm": "-1"
+  },
+  {
+    "number": 3,
+    "xhm": "P 1 2 1",
+    "hm": "P 1 2 1",
+    "laue": "2/m",
+    "lattice": "P",
+    "unique_axis": "b",
+    "crystal_system": "monoclinic",
+    "point_group_hm": "2"
+  },
+  {
+    "number": 4,
+    "xhm": "P 1 21 1",
+    "hm": "P 1 21 1",
+    "laue": "2/m",
+    "lattice": "P",
+    "unique_axis": "b",
+    "crystal_system": "monoclinic",
+    "point_group_hm": "2"
+  },
+  {
+    "number": 5,
+    "xhm": "C 1 2 1",
+    "hm": "C 1 2 1",
+    "laue": "2/m",
+    "lattice": "C",
+    "unique_axis": "b",
+    "crystal_system": "monoclinic",
+    "point_group_hm": "2"
+  },
+  {
+    "number": 6,
+    "xhm": "P 1 m 1",
+    "hm": "P 1 m 1",
+    "laue": "2/m",
+    "lattice": "P",
+    "unique_axis": "b",
+    "crystal_system": "monoclinic",
+    "point_group_hm": "m"
+  },
+  {
+    "number": 7,
+    "xhm": "P 1 c 1",
+    "hm": "P 1 c 1",
+    "laue": "2/m",
+    "lattice": "P",
+    "unique_axis": "b",
+    "crystal_system": "monoclinic",
+    "point_group_hm": "m"
+  },
+  {
+    "number": 8,
+    "xhm": "C 1 m 1",
+    "hm": "C 1 m 1",
+    "laue": "2/m",
+    "lattice": "C",
+    "unique_axis": "b",
+    "crystal_system": "monoclinic",
+    "point_group_hm": "m"
+  },
+  {
+    "number": 9,
+    "xhm": "C 1 c 1",
+    "hm": "C 1 c 1",
+    "laue": "2/m",
+    "lattice": "C",
+    "unique_axis": "b",
+    "crystal_system": "monoclinic",
+    "point_group_hm": "m"
+  },
+  {
+    "number": 10,
+    "xhm": "P 1 2/m 1",
+    "hm": "P 1 2/m 1",
+    "laue": "2/m",
+    "lattice": "P",
+    "unique_axis": "b",
+    "crystal_system": "monoclinic",
+    "point_group_hm": "2/m"
+  },
+  {
+    "number": 11,
+    "xhm": "P 1 21/m 1",
+    "hm": "P 1 21/m 1",
+    "laue": "2/m",
+    "lattice": "P",
+    "unique_axis": "b",
+    "crystal_system": "monoclinic",
+    "point_group_hm": "2/m"
+  },
+  {
+    "number": 12,
+    "xhm": "C 1 2/m 1",
+    "hm": "C 1 2/m 1",
+    "laue": "2/m",
+    "lattice": "C",
+    "unique_axis": "b",
+    "crystal_system": "monoclinic",
+    "point_group_hm": "2/m"
+  },
+  {
+    "number": 13,
+    "xhm": "P 1 2/c 1",
+    "hm": "P 1 2/c 1",
+    "laue": "2/m",
+    "lattice": "P",
+    "unique_axis": "b",
+    "crystal_system": "monoclinic",
+    "point_group_hm": "2/m"
+  },
+  {
+    "number": 14,
+    "xhm": "P 1 21/c 1",
+    "hm": "P 1 21/c 1",
+    "laue": "2/m",
+    "lattice": "P",
+    "unique_axis": "b",
+    "crystal_system": "monoclinic",
+    "point_group_hm": "2/m"
+  },
+  {
+    "number": 15,
+    "xhm": "C 1 2/c 1",
+    "hm": "C 1 2/c 1",
+    "laue": "2/m",
+    "lattice": "C",
+    "unique_axis": "b",
+    "crystal_system": "monoclinic",
+    "point_group_hm": "2/m"
+  },
+  {
+    "number": 16,
+    "xhm": "P 2 2 2",
+    "hm": "P 2 2 2",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "222"
+  },
+  {
+    "number": 17,
+    "xhm": "P 2 2 21",
+    "hm": "P 2 2 21",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "222"
+  },
+  {
+    "number": 18,
+    "xhm": "P 21 21 2",
+    "hm": "P 21 21 2",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "222"
+  },
+  {
+    "number": 19,
+    "xhm": "P 21 21 21",
+    "hm": "P 21 21 21",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "222"
+  },
+  {
+    "number": 20,
+    "xhm": "C 2 2 21",
+    "hm": "C 2 2 21",
+    "laue": "mmm",
+    "lattice": "C",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "222"
+  },
+  {
+    "number": 21,
+    "xhm": "C 2 2 2",
+    "hm": "C 2 2 2",
+    "laue": "mmm",
+    "lattice": "C",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "222"
+  },
+  {
+    "number": 22,
+    "xhm": "F 2 2 2",
+    "hm": "F 2 2 2",
+    "laue": "mmm",
+    "lattice": "F",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "222"
+  },
+  {
+    "number": 23,
+    "xhm": "I 2 2 2",
+    "hm": "I 2 2 2",
+    "laue": "mmm",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "222"
+  },
+  {
+    "number": 24,
+    "xhm": "I 21 21 21",
+    "hm": "I 21 21 21",
+    "laue": "mmm",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "222"
+  },
+  {
+    "number": 25,
+    "xhm": "P m m 2",
+    "hm": "P m m 2",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mm2"
+  },
+  {
+    "number": 26,
+    "xhm": "P m c 21",
+    "hm": "P m c 21",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mm2"
+  },
+  {
+    "number": 27,
+    "xhm": "P c c 2",
+    "hm": "P c c 2",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mm2"
+  },
+  {
+    "number": 28,
+    "xhm": "P m a 2",
+    "hm": "P m a 2",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mm2"
+  },
+  {
+    "number": 29,
+    "xhm": "P c a 21",
+    "hm": "P c a 21",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mm2"
+  },
+  {
+    "number": 30,
+    "xhm": "P n c 2",
+    "hm": "P n c 2",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mm2"
+  },
+  {
+    "number": 31,
+    "xhm": "P m n 21",
+    "hm": "P m n 21",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mm2"
+  },
+  {
+    "number": 32,
+    "xhm": "P b a 2",
+    "hm": "P b a 2",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mm2"
+  },
+  {
+    "number": 33,
+    "xhm": "P n a 21",
+    "hm": "P n a 21",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mm2"
+  },
+  {
+    "number": 34,
+    "xhm": "P n n 2",
+    "hm": "P n n 2",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mm2"
+  },
+  {
+    "number": 35,
+    "xhm": "C m m 2",
+    "hm": "C m m 2",
+    "laue": "mmm",
+    "lattice": "C",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mm2"
+  },
+  {
+    "number": 36,
+    "xhm": "C m c 21",
+    "hm": "C m c 21",
+    "laue": "mmm",
+    "lattice": "C",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mm2"
+  },
+  {
+    "number": 37,
+    "xhm": "C c c 2",
+    "hm": "C c c 2",
+    "laue": "mmm",
+    "lattice": "C",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mm2"
+  },
+  {
+    "number": 38,
+    "xhm": "A m m 2",
+    "hm": "A m m 2",
+    "laue": "mmm",
+    "lattice": "A",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mm2"
+  },
+  {
+    "number": 39,
+    "xhm": "A b m 2",
+    "hm": "A b m 2",
+    "laue": "mmm",
+    "lattice": "A",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mm2"
+  },
+  {
+    "number": 40,
+    "xhm": "A m a 2",
+    "hm": "A m a 2",
+    "laue": "mmm",
+    "lattice": "A",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mm2"
+  },
+  {
+    "number": 41,
+    "xhm": "A b a 2",
+    "hm": "A b a 2",
+    "laue": "mmm",
+    "lattice": "A",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mm2"
+  },
+  {
+    "number": 42,
+    "xhm": "F m m 2",
+    "hm": "F m m 2",
+    "laue": "mmm",
+    "lattice": "F",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mm2"
+  },
+  {
+    "number": 43,
+    "xhm": "F d d 2",
+    "hm": "F d d 2",
+    "laue": "mmm",
+    "lattice": "F",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mm2"
+  },
+  {
+    "number": 44,
+    "xhm": "I m m 2",
+    "hm": "I m m 2",
+    "laue": "mmm",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mm2"
+  },
+  {
+    "number": 45,
+    "xhm": "I b a 2",
+    "hm": "I b a 2",
+    "laue": "mmm",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mm2"
+  },
+  {
+    "number": 46,
+    "xhm": "I m a 2",
+    "hm": "I m a 2",
+    "laue": "mmm",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mm2"
+  },
+  {
+    "number": 47,
+    "xhm": "P m m m",
+    "hm": "P m m m",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 48,
+    "xhm": "P n n n:1",
+    "hm": "P n n n",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 49,
+    "xhm": "P c c m",
+    "hm": "P c c m",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 50,
+    "xhm": "P b a n:1",
+    "hm": "P b a n",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 51,
+    "xhm": "P m m a",
+    "hm": "P m m a",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 52,
+    "xhm": "P n n a",
+    "hm": "P n n a",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 53,
+    "xhm": "P m n a",
+    "hm": "P m n a",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 54,
+    "xhm": "P c c a",
+    "hm": "P c c a",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 55,
+    "xhm": "P b a m",
+    "hm": "P b a m",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 56,
+    "xhm": "P c c n",
+    "hm": "P c c n",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 57,
+    "xhm": "P b c m",
+    "hm": "P b c m",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 58,
+    "xhm": "P n n m",
+    "hm": "P n n m",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 59,
+    "xhm": "P m m n:1",
+    "hm": "P m m n",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 60,
+    "xhm": "P b c n",
+    "hm": "P b c n",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 61,
+    "xhm": "P b c a",
+    "hm": "P b c a",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 62,
+    "xhm": "P n m a",
+    "hm": "P n m a",
+    "laue": "mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 63,
+    "xhm": "C m c m",
+    "hm": "C m c m",
+    "laue": "mmm",
+    "lattice": "C",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 64,
+    "xhm": "C m c a",
+    "hm": "C m c a",
+    "laue": "mmm",
+    "lattice": "C",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 65,
+    "xhm": "C m m m",
+    "hm": "C m m m",
+    "laue": "mmm",
+    "lattice": "C",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 66,
+    "xhm": "C c c m",
+    "hm": "C c c m",
+    "laue": "mmm",
+    "lattice": "C",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 67,
+    "xhm": "C m m a",
+    "hm": "C m m a",
+    "laue": "mmm",
+    "lattice": "C",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 68,
+    "xhm": "C c c a:1",
+    "hm": "C c c a",
+    "laue": "mmm",
+    "lattice": "C",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 69,
+    "xhm": "F m m m",
+    "hm": "F m m m",
+    "laue": "mmm",
+    "lattice": "F",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 70,
+    "xhm": "F d d d:1",
+    "hm": "F d d d",
+    "laue": "mmm",
+    "lattice": "F",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 71,
+    "xhm": "I m m m",
+    "hm": "I m m m",
+    "laue": "mmm",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 72,
+    "xhm": "I b a m",
+    "hm": "I b a m",
+    "laue": "mmm",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 73,
+    "xhm": "I b c a",
+    "hm": "I b c a",
+    "laue": "mmm",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 74,
+    "xhm": "I m m a",
+    "hm": "I m m a",
+    "laue": "mmm",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "orthorhombic",
+    "point_group_hm": "mmm"
+  },
+  {
+    "number": 75,
+    "xhm": "P 4",
+    "hm": "P 4",
+    "laue": "4/m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4"
+  },
+  {
+    "number": 76,
+    "xhm": "P 41",
+    "hm": "P 41",
+    "laue": "4/m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4"
+  },
+  {
+    "number": 77,
+    "xhm": "P 42",
+    "hm": "P 42",
+    "laue": "4/m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4"
+  },
+  {
+    "number": 78,
+    "xhm": "P 43",
+    "hm": "P 43",
+    "laue": "4/m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4"
+  },
+  {
+    "number": 79,
+    "xhm": "I 4",
+    "hm": "I 4",
+    "laue": "4/m",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4"
+  },
+  {
+    "number": 80,
+    "xhm": "I 41",
+    "hm": "I 41",
+    "laue": "4/m",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4"
+  },
+  {
+    "number": 81,
+    "xhm": "P -4",
+    "hm": "P -4",
+    "laue": "4/m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "-4"
+  },
+  {
+    "number": 82,
+    "xhm": "I -4",
+    "hm": "I -4",
+    "laue": "4/m",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "-4"
+  },
+  {
+    "number": 83,
+    "xhm": "P 4/m",
+    "hm": "P 4/m",
+    "laue": "4/m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/m"
+  },
+  {
+    "number": 84,
+    "xhm": "P 42/m",
+    "hm": "P 42/m",
+    "laue": "4/m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/m"
+  },
+  {
+    "number": 85,
+    "xhm": "P 4/n:1",
+    "hm": "P 4/n",
+    "laue": "4/m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/m"
+  },
+  {
+    "number": 86,
+    "xhm": "P 42/n:1",
+    "hm": "P 42/n",
+    "laue": "4/m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/m"
+  },
+  {
+    "number": 87,
+    "xhm": "I 4/m",
+    "hm": "I 4/m",
+    "laue": "4/m",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/m"
+  },
+  {
+    "number": 88,
+    "xhm": "I 41/a:1",
+    "hm": "I 41/a",
+    "laue": "4/m",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/m"
+  },
+  {
+    "number": 89,
+    "xhm": "P 4 2 2",
+    "hm": "P 4 2 2",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "422"
+  },
+  {
+    "number": 90,
+    "xhm": "P 4 21 2",
+    "hm": "P 4 21 2",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "422"
+  },
+  {
+    "number": 91,
+    "xhm": "P 41 2 2",
+    "hm": "P 41 2 2",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "422"
+  },
+  {
+    "number": 92,
+    "xhm": "P 41 21 2",
+    "hm": "P 41 21 2",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "422"
+  },
+  {
+    "number": 93,
+    "xhm": "P 42 2 2",
+    "hm": "P 42 2 2",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "422"
+  },
+  {
+    "number": 94,
+    "xhm": "P 42 21 2",
+    "hm": "P 42 21 2",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "422"
+  },
+  {
+    "number": 95,
+    "xhm": "P 43 2 2",
+    "hm": "P 43 2 2",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "422"
+  },
+  {
+    "number": 96,
+    "xhm": "P 43 21 2",
+    "hm": "P 43 21 2",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "422"
+  },
+  {
+    "number": 97,
+    "xhm": "I 4 2 2",
+    "hm": "I 4 2 2",
+    "laue": "4/mmm",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "422"
+  },
+  {
+    "number": 98,
+    "xhm": "I 41 2 2",
+    "hm": "I 41 2 2",
+    "laue": "4/mmm",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "422"
+  },
+  {
+    "number": 99,
+    "xhm": "P 4 m m",
+    "hm": "P 4 m m",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4mm"
+  },
+  {
+    "number": 100,
+    "xhm": "P 4 b m",
+    "hm": "P 4 b m",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4mm"
+  },
+  {
+    "number": 101,
+    "xhm": "P 42 c m",
+    "hm": "P 42 c m",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4mm"
+  },
+  {
+    "number": 102,
+    "xhm": "P 42 n m",
+    "hm": "P 42 n m",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4mm"
+  },
+  {
+    "number": 103,
+    "xhm": "P 4 c c",
+    "hm": "P 4 c c",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4mm"
+  },
+  {
+    "number": 104,
+    "xhm": "P 4 n c",
+    "hm": "P 4 n c",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4mm"
+  },
+  {
+    "number": 105,
+    "xhm": "P 42 m c",
+    "hm": "P 42 m c",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4mm"
+  },
+  {
+    "number": 106,
+    "xhm": "P 42 b c",
+    "hm": "P 42 b c",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4mm"
+  },
+  {
+    "number": 107,
+    "xhm": "I 4 m m",
+    "hm": "I 4 m m",
+    "laue": "4/mmm",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4mm"
+  },
+  {
+    "number": 108,
+    "xhm": "I 4 c m",
+    "hm": "I 4 c m",
+    "laue": "4/mmm",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4mm"
+  },
+  {
+    "number": 109,
+    "xhm": "I 41 m d",
+    "hm": "I 41 m d",
+    "laue": "4/mmm",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4mm"
+  },
+  {
+    "number": 110,
+    "xhm": "I 41 c d",
+    "hm": "I 41 c d",
+    "laue": "4/mmm",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4mm"
+  },
+  {
+    "number": 111,
+    "xhm": "P -4 2 m",
+    "hm": "P -4 2 m",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "-42m"
+  },
+  {
+    "number": 112,
+    "xhm": "P -4 2 c",
+    "hm": "P -4 2 c",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "-42m"
+  },
+  {
+    "number": 113,
+    "xhm": "P -4 21 m",
+    "hm": "P -4 21 m",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "-42m"
+  },
+  {
+    "number": 114,
+    "xhm": "P -4 21 c",
+    "hm": "P -4 21 c",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "-42m"
+  },
+  {
+    "number": 115,
+    "xhm": "P -4 m 2",
+    "hm": "P -4 m 2",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "-42m"
+  },
+  {
+    "number": 116,
+    "xhm": "P -4 c 2",
+    "hm": "P -4 c 2",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "-42m"
+  },
+  {
+    "number": 117,
+    "xhm": "P -4 b 2",
+    "hm": "P -4 b 2",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "-42m"
+  },
+  {
+    "number": 118,
+    "xhm": "P -4 n 2",
+    "hm": "P -4 n 2",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "-42m"
+  },
+  {
+    "number": 119,
+    "xhm": "I -4 m 2",
+    "hm": "I -4 m 2",
+    "laue": "4/mmm",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "-42m"
+  },
+  {
+    "number": 120,
+    "xhm": "I -4 c 2",
+    "hm": "I -4 c 2",
+    "laue": "4/mmm",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "-42m"
+  },
+  {
+    "number": 121,
+    "xhm": "I -4 2 m",
+    "hm": "I -4 2 m",
+    "laue": "4/mmm",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "-42m"
+  },
+  {
+    "number": 122,
+    "xhm": "I -4 2 d",
+    "hm": "I -4 2 d",
+    "laue": "4/mmm",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "-42m"
+  },
+  {
+    "number": 123,
+    "xhm": "P 4/m m m",
+    "hm": "P 4/m m m",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/mmm"
+  },
+  {
+    "number": 124,
+    "xhm": "P 4/m c c",
+    "hm": "P 4/m c c",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/mmm"
+  },
+  {
+    "number": 125,
+    "xhm": "P 4/n b m:1",
+    "hm": "P 4/n b m",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/mmm"
+  },
+  {
+    "number": 126,
+    "xhm": "P 4/n n c:1",
+    "hm": "P 4/n n c",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/mmm"
+  },
+  {
+    "number": 127,
+    "xhm": "P 4/m b m",
+    "hm": "P 4/m b m",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/mmm"
+  },
+  {
+    "number": 128,
+    "xhm": "P 4/m n c",
+    "hm": "P 4/m n c",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/mmm"
+  },
+  {
+    "number": 129,
+    "xhm": "P 4/n m m:1",
+    "hm": "P 4/n m m",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/mmm"
+  },
+  {
+    "number": 130,
+    "xhm": "P 4/n c c:1",
+    "hm": "P 4/n c c",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/mmm"
+  },
+  {
+    "number": 131,
+    "xhm": "P 42/m m c",
+    "hm": "P 42/m m c",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/mmm"
+  },
+  {
+    "number": 132,
+    "xhm": "P 42/m c m",
+    "hm": "P 42/m c m",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/mmm"
+  },
+  {
+    "number": 133,
+    "xhm": "P 42/n b c:1",
+    "hm": "P 42/n b c",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/mmm"
+  },
+  {
+    "number": 134,
+    "xhm": "P 42/n n m:1",
+    "hm": "P 42/n n m",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/mmm"
+  },
+  {
+    "number": 135,
+    "xhm": "P 42/m b c",
+    "hm": "P 42/m b c",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/mmm"
+  },
+  {
+    "number": 136,
+    "xhm": "P 42/m n m",
+    "hm": "P 42/m n m",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/mmm"
+  },
+  {
+    "number": 137,
+    "xhm": "P 42/n m c:1",
+    "hm": "P 42/n m c",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/mmm"
+  },
+  {
+    "number": 138,
+    "xhm": "P 42/n c m:1",
+    "hm": "P 42/n c m",
+    "laue": "4/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/mmm"
+  },
+  {
+    "number": 139,
+    "xhm": "I 4/m m m",
+    "hm": "I 4/m m m",
+    "laue": "4/mmm",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/mmm"
+  },
+  {
+    "number": 140,
+    "xhm": "I 4/m c m",
+    "hm": "I 4/m c m",
+    "laue": "4/mmm",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/mmm"
+  },
+  {
+    "number": 141,
+    "xhm": "I 41/a m d:1",
+    "hm": "I 41/a m d",
+    "laue": "4/mmm",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/mmm"
+  },
+  {
+    "number": 142,
+    "xhm": "I 41/a c d:1",
+    "hm": "I 41/a c d",
+    "laue": "4/mmm",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "tetragonal",
+    "point_group_hm": "4/mmm"
+  },
+  {
+    "number": 143,
+    "xhm": "P 3",
+    "hm": "P 3",
+    "laue": "3",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "3"
+  },
+  {
+    "number": 144,
+    "xhm": "P 31",
+    "hm": "P 31",
+    "laue": "3",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "3"
+  },
+  {
+    "number": 145,
+    "xhm": "P 32",
+    "hm": "P 32",
+    "laue": "3",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "3"
+  },
+  {
+    "number": 146,
+    "xhm": "R 3:H",
+    "hm": "R 3",
+    "laue": "3",
+    "lattice": "R",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "3"
+  },
+  {
+    "number": 147,
+    "xhm": "P -3",
+    "hm": "P -3",
+    "laue": "3",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "-3"
+  },
+  {
+    "number": 148,
+    "xhm": "R -3:H",
+    "hm": "R -3",
+    "laue": "3",
+    "lattice": "R",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "-3"
+  },
+  {
+    "number": 149,
+    "xhm": "P 3 1 2",
+    "hm": "P 3 1 2",
+    "laue": "31m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "32"
+  },
+  {
+    "number": 150,
+    "xhm": "P 3 2 1",
+    "hm": "P 3 2 1",
+    "laue": "3m1",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "32"
+  },
+  {
+    "number": 151,
+    "xhm": "P 31 1 2",
+    "hm": "P 31 1 2",
+    "laue": "31m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "32"
+  },
+  {
+    "number": 152,
+    "xhm": "P 31 2 1",
+    "hm": "P 31 2 1",
+    "laue": "3m1",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "32"
+  },
+  {
+    "number": 153,
+    "xhm": "P 32 1 2",
+    "hm": "P 32 1 2",
+    "laue": "31m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "32"
+  },
+  {
+    "number": 154,
+    "xhm": "P 32 2 1",
+    "hm": "P 32 2 1",
+    "laue": "3m1",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "32"
+  },
+  {
+    "number": 155,
+    "xhm": "R 3 2:H",
+    "hm": "R 3 2",
+    "laue": "3m1",
+    "lattice": "R",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "32"
+  },
+  {
+    "number": 156,
+    "xhm": "P 3 m 1",
+    "hm": "P 3 m 1",
+    "laue": "3m1",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "3m"
+  },
+  {
+    "number": 157,
+    "xhm": "P 3 1 m",
+    "hm": "P 3 1 m",
+    "laue": "31m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "3m"
+  },
+  {
+    "number": 158,
+    "xhm": "P 3 c 1",
+    "hm": "P 3 c 1",
+    "laue": "3m1",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "3m"
+  },
+  {
+    "number": 159,
+    "xhm": "P 3 1 c",
+    "hm": "P 3 1 c",
+    "laue": "31m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "3m"
+  },
+  {
+    "number": 160,
+    "xhm": "R 3 m:H",
+    "hm": "R 3 m",
+    "laue": "3m1",
+    "lattice": "R",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "3m"
+  },
+  {
+    "number": 161,
+    "xhm": "R 3 c:H",
+    "hm": "R 3 c",
+    "laue": "3m1",
+    "lattice": "R",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "3m"
+  },
+  {
+    "number": 162,
+    "xhm": "P -3 1 m",
+    "hm": "P -3 1 m",
+    "laue": "31m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "-3m"
+  },
+  {
+    "number": 163,
+    "xhm": "P -3 1 c",
+    "hm": "P -3 1 c",
+    "laue": "31m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "-3m"
+  },
+  {
+    "number": 164,
+    "xhm": "P -3 m 1",
+    "hm": "P -3 m 1",
+    "laue": "3m1",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "-3m"
+  },
+  {
+    "number": 165,
+    "xhm": "P -3 c 1",
+    "hm": "P -3 c 1",
+    "laue": "3m1",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "-3m"
+  },
+  {
+    "number": 166,
+    "xhm": "R -3 m:H",
+    "hm": "R -3 m",
+    "laue": "3m1",
+    "lattice": "R",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "-3m"
+  },
+  {
+    "number": 167,
+    "xhm": "R -3 c:H",
+    "hm": "R -3 c",
+    "laue": "3m1",
+    "lattice": "R",
+    "unique_axis": "",
+    "crystal_system": "trigonal",
+    "point_group_hm": "-3m"
+  },
+  {
+    "number": 168,
+    "xhm": "P 6",
+    "hm": "P 6",
+    "laue": "6/m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "6"
+  },
+  {
+    "number": 169,
+    "xhm": "P 61",
+    "hm": "P 61",
+    "laue": "6/m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "6"
+  },
+  {
+    "number": 170,
+    "xhm": "P 65",
+    "hm": "P 65",
+    "laue": "6/m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "6"
+  },
+  {
+    "number": 171,
+    "xhm": "P 62",
+    "hm": "P 62",
+    "laue": "6/m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "6"
+  },
+  {
+    "number": 172,
+    "xhm": "P 64",
+    "hm": "P 64",
+    "laue": "6/m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "6"
+  },
+  {
+    "number": 173,
+    "xhm": "P 63",
+    "hm": "P 63",
+    "laue": "6/m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "6"
+  },
+  {
+    "number": 174,
+    "xhm": "P -6",
+    "hm": "P -6",
+    "laue": "6/m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "-6"
+  },
+  {
+    "number": 175,
+    "xhm": "P 6/m",
+    "hm": "P 6/m",
+    "laue": "6/m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "6/m"
+  },
+  {
+    "number": 176,
+    "xhm": "P 63/m",
+    "hm": "P 63/m",
+    "laue": "6/m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "6/m"
+  },
+  {
+    "number": 177,
+    "xhm": "P 6 2 2",
+    "hm": "P 6 2 2",
+    "laue": "6/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "622"
+  },
+  {
+    "number": 178,
+    "xhm": "P 61 2 2",
+    "hm": "P 61 2 2",
+    "laue": "6/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "622"
+  },
+  {
+    "number": 179,
+    "xhm": "P 65 2 2",
+    "hm": "P 65 2 2",
+    "laue": "6/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "622"
+  },
+  {
+    "number": 180,
+    "xhm": "P 62 2 2",
+    "hm": "P 62 2 2",
+    "laue": "6/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "622"
+  },
+  {
+    "number": 181,
+    "xhm": "P 64 2 2",
+    "hm": "P 64 2 2",
+    "laue": "6/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "622"
+  },
+  {
+    "number": 182,
+    "xhm": "P 63 2 2",
+    "hm": "P 63 2 2",
+    "laue": "6/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "622"
+  },
+  {
+    "number": 183,
+    "xhm": "P 6 m m",
+    "hm": "P 6 m m",
+    "laue": "6/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "6mm"
+  },
+  {
+    "number": 184,
+    "xhm": "P 6 c c",
+    "hm": "P 6 c c",
+    "laue": "6/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "6mm"
+  },
+  {
+    "number": 185,
+    "xhm": "P 63 c m",
+    "hm": "P 63 c m",
+    "laue": "6/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "6mm"
+  },
+  {
+    "number": 186,
+    "xhm": "P 63 m c",
+    "hm": "P 63 m c",
+    "laue": "6/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "6mm"
+  },
+  {
+    "number": 187,
+    "xhm": "P -6 m 2",
+    "hm": "P -6 m 2",
+    "laue": "6/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "-62m"
+  },
+  {
+    "number": 188,
+    "xhm": "P -6 c 2",
+    "hm": "P -6 c 2",
+    "laue": "6/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "-62m"
+  },
+  {
+    "number": 189,
+    "xhm": "P -6 2 m",
+    "hm": "P -6 2 m",
+    "laue": "6/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "-62m"
+  },
+  {
+    "number": 190,
+    "xhm": "P -6 2 c",
+    "hm": "P -6 2 c",
+    "laue": "6/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "-62m"
+  },
+  {
+    "number": 191,
+    "xhm": "P 6/m m m",
+    "hm": "P 6/m m m",
+    "laue": "6/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "6/mmm"
+  },
+  {
+    "number": 192,
+    "xhm": "P 6/m c c",
+    "hm": "P 6/m c c",
+    "laue": "6/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "6/mmm"
+  },
+  {
+    "number": 193,
+    "xhm": "P 63/m c m",
+    "hm": "P 63/m c m",
+    "laue": "6/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "6/mmm"
+  },
+  {
+    "number": 194,
+    "xhm": "P 63/m m c",
+    "hm": "P 63/m m c",
+    "laue": "6/mmm",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "hexagonal",
+    "point_group_hm": "6/mmm"
+  },
+  {
+    "number": 195,
+    "xhm": "P 2 3",
+    "hm": "P 2 3",
+    "laue": "m3",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "23"
+  },
+  {
+    "number": 196,
+    "xhm": "F 2 3",
+    "hm": "F 2 3",
+    "laue": "m3",
+    "lattice": "F",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "23"
+  },
+  {
+    "number": 197,
+    "xhm": "I 2 3",
+    "hm": "I 2 3",
+    "laue": "m3",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "23"
+  },
+  {
+    "number": 198,
+    "xhm": "P 21 3",
+    "hm": "P 21 3",
+    "laue": "m3",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "23"
+  },
+  {
+    "number": 199,
+    "xhm": "I 21 3",
+    "hm": "I 21 3",
+    "laue": "m3",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "23"
+  },
+  {
+    "number": 200,
+    "xhm": "P m -3",
+    "hm": "P m -3",
+    "laue": "m3",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "m-3"
+  },
+  {
+    "number": 201,
+    "xhm": "P n -3:1",
+    "hm": "P n -3",
+    "laue": "m3",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "m-3"
+  },
+  {
+    "number": 202,
+    "xhm": "F m -3",
+    "hm": "F m -3",
+    "laue": "m3",
+    "lattice": "F",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "m-3"
+  },
+  {
+    "number": 203,
+    "xhm": "F d -3:1",
+    "hm": "F d -3",
+    "laue": "m3",
+    "lattice": "F",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "m-3"
+  },
+  {
+    "number": 204,
+    "xhm": "I m -3",
+    "hm": "I m -3",
+    "laue": "m3",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "m-3"
+  },
+  {
+    "number": 205,
+    "xhm": "P a -3",
+    "hm": "P a -3",
+    "laue": "m3",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "m-3"
+  },
+  {
+    "number": 206,
+    "xhm": "I a -3",
+    "hm": "I a -3",
+    "laue": "m3",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "m-3"
+  },
+  {
+    "number": 207,
+    "xhm": "P 4 3 2",
+    "hm": "P 4 3 2",
+    "laue": "m3m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "432"
+  },
+  {
+    "number": 208,
+    "xhm": "P 42 3 2",
+    "hm": "P 42 3 2",
+    "laue": "m3m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "432"
+  },
+  {
+    "number": 209,
+    "xhm": "F 4 3 2",
+    "hm": "F 4 3 2",
+    "laue": "m3m",
+    "lattice": "F",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "432"
+  },
+  {
+    "number": 210,
+    "xhm": "F 41 3 2",
+    "hm": "F 41 3 2",
+    "laue": "m3m",
+    "lattice": "F",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "432"
+  },
+  {
+    "number": 211,
+    "xhm": "I 4 3 2",
+    "hm": "I 4 3 2",
+    "laue": "m3m",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "432"
+  },
+  {
+    "number": 212,
+    "xhm": "P 43 3 2",
+    "hm": "P 43 3 2",
+    "laue": "m3m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "432"
+  },
+  {
+    "number": 213,
+    "xhm": "P 41 3 2",
+    "hm": "P 41 3 2",
+    "laue": "m3m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "432"
+  },
+  {
+    "number": 214,
+    "xhm": "I 41 3 2",
+    "hm": "I 41 3 2",
+    "laue": "m3m",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "432"
+  },
+  {
+    "number": 215,
+    "xhm": "P -4 3 m",
+    "hm": "P -4 3 m",
+    "laue": "m3m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "-43m"
+  },
+  {
+    "number": 216,
+    "xhm": "F -4 3 m",
+    "hm": "F -4 3 m",
+    "laue": "m3m",
+    "lattice": "F",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "-43m"
+  },
+  {
+    "number": 217,
+    "xhm": "I -4 3 m",
+    "hm": "I -4 3 m",
+    "laue": "m3m",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "-43m"
+  },
+  {
+    "number": 218,
+    "xhm": "P -4 3 n",
+    "hm": "P -4 3 n",
+    "laue": "m3m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "-43m"
+  },
+  {
+    "number": 219,
+    "xhm": "F -4 3 c",
+    "hm": "F -4 3 c",
+    "laue": "m3m",
+    "lattice": "F",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "-43m"
+  },
+  {
+    "number": 220,
+    "xhm": "I -4 3 d",
+    "hm": "I -4 3 d",
+    "laue": "m3m",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "-43m"
+  },
+  {
+    "number": 221,
+    "xhm": "P m -3 m",
+    "hm": "P m -3 m",
+    "laue": "m3m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "m-3m"
+  },
+  {
+    "number": 222,
+    "xhm": "P n -3 n:1",
+    "hm": "P n -3 n",
+    "laue": "m3m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "m-3m"
+  },
+  {
+    "number": 223,
+    "xhm": "P m -3 n",
+    "hm": "P m -3 n",
+    "laue": "m3m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "m-3m"
+  },
+  {
+    "number": 224,
+    "xhm": "P n -3 m:1",
+    "hm": "P n -3 m",
+    "laue": "m3m",
+    "lattice": "P",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "m-3m"
+  },
+  {
+    "number": 225,
+    "xhm": "F m -3 m",
+    "hm": "F m -3 m",
+    "laue": "m3m",
+    "lattice": "F",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "m-3m"
+  },
+  {
+    "number": 226,
+    "xhm": "F m -3 c",
+    "hm": "F m -3 c",
+    "laue": "m3m",
+    "lattice": "F",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "m-3m"
+  },
+  {
+    "number": 227,
+    "xhm": "F d -3 m:1",
+    "hm": "F d -3 m",
+    "laue": "m3m",
+    "lattice": "F",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "m-3m"
+  },
+  {
+    "number": 228,
+    "xhm": "F d -3 c:1",
+    "hm": "F d -3 c",
+    "laue": "m3m",
+    "lattice": "F",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "m-3m"
+  },
+  {
+    "number": 229,
+    "xhm": "I m -3 m",
+    "hm": "I m -3 m",
+    "laue": "m3m",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "m-3m"
+  },
+  {
+    "number": 230,
+    "xhm": "I a -3 d",
+    "hm": "I a -3 d",
+    "laue": "m3m",
+    "lattice": "I",
+    "unique_axis": "",
+    "crystal_system": "cubic",
+    "point_group_hm": "m-3m"
+  }
+]
